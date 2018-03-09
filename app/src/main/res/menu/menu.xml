@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".EntryActivity">
+
+    <item
+        android:id="@+id/action_save"
+        android:title="done"
+        android:icon="@drawable/ic_done"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_dial"
+        android:icon="@android:drawable/stat_sys_phone_call"
+        android:title="open in dialer"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="delete"
+        app:showAsAction="always" />
+
+
+</menu>

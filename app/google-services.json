@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491034481877",
+    "firebase_url": "https://ambikacloth-51ce5.firebaseio.com",
+    "project_id": "ambikacloth-51ce5",
+    "storage_bucket": "ambikacloth-51ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491034481877:android:abce4d1d74b56dfe",
+        "android_client_info": {
+          "package_name": "com.example.android.ambikacloth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491034481877-mqaj4nka9a7jvbpmdsrfkgo7am6ahqji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.ambikacloth",
+            "certificate_hash": "e629670af22bf21ed8de6e78a7ed381cd42d28bf"
+          }
+        },
+        {
+          "client_id": "491034481877-9flke74pamp30jiotdlvp5thj67vpu2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpufd1uPap7U1jDh2VN0-6oFp27PMM3II"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491034481877-9flke74pamp30jiotdlvp5thj67vpu2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
